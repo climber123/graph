@@ -1,0 +1,12 @@
+D:\1 курс\Программирование\C#\2 Семестр\Attestation2.3\Graph1\bin\Debug\Graph1.exe.config
+D:\1 курс\Программирование\C#\2 Семестр\Attestation2.3\Graph1\bin\Debug\Graph1.exe
+D:\1 курс\Программирование\C#\2 Семестр\Attestation2.3\Graph1\bin\Debug\Graph1.pdb
+D:\1 курс\Программирование\C#\2 Семестр\Attestation2.3\Graph1\obj\Debug\GraphLibrary.csprojResolveAssemblyReference.cache
+D:\1 курс\Программирование\C#\2 Семестр\Attestation2.3\Graph1\obj\Debug\Graph1.Form1.resources
+D:\1 курс\Программирование\C#\2 Семестр\Attestation2.3\Graph1\obj\Debug\Graph1.Properties.Resources.resources
+D:\1 курс\Программирование\C#\2 Семестр\Attestation2.3\Graph1\obj\Debug\GraphLibrary.csproj.GenerateResource.Cache
+D:\1 курс\Программирование\C#\2 Семестр\Attestation2.3\Graph1\obj\Debug\GraphLibrary.csproj.CoreCompileInputs.cache
+D:\1 курс\Программирование\C#\2 Семестр\Attestation2.3\Graph1\obj\Debug\Graph1.exe
+D:\1 курс\Программирование\C#\2 Семестр\Attestation2.3\Graph1\obj\Debug\Graph1.pdb
+D:\1 курс\Программирование\C#\2 Семестр\Attestation2.3\Graph1\bin\Debug\MyGraph.dll
+D:\1 курс\Программирование\C#\2 Семестр\Attestation2.3\Graph1\bin\Debug\MyGraph.pdb

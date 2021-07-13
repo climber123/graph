@@ -1,0 +1,10 @@
+D:\1 курс\Программирование\C#\2 Семестр\Attestation2.3\49\bin\Debug\49.exe.config
+D:\1 курс\Программирование\C#\2 Семестр\Attestation2.3\49\bin\Debug\49.exe
+D:\1 курс\Программирование\C#\2 Семестр\Attestation2.3\49\bin\Debug\49.pdb
+D:\1 курс\Программирование\C#\2 Семестр\Attestation2.3\49\obj\Debug\49.csprojResolveAssemblyReference.cache
+D:\1 курс\Программирование\C#\2 Семестр\Attestation2.3\49\obj\Debug\_49.Properties.Resources.resources
+D:\1 курс\Программирование\C#\2 Семестр\Attestation2.3\49\obj\Debug\49.csproj.GenerateResource.Cache
+D:\1 курс\Программирование\C#\2 Семестр\Attestation2.3\49\obj\Debug\49.csproj.CoreCompileInputs.cache
+D:\1 курс\Программирование\C#\2 Семестр\Attestation2.3\49\obj\Debug\49.exe
+D:\1 курс\Программирование\C#\2 Семестр\Attestation2.3\49\obj\Debug\49.pdb
+D:\1 курс\Программирование\C#\2 Семестр\Attestation2.3\49\obj\Debug\_49.Number49.resources

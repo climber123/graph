@@ -1,0 +1,6 @@
+D:\1 курс\Программирование\C#\2 Семестр\Attestation2.3\MyGraph\bin\Debug\MyGraph.dll
+D:\1 курс\Программирование\C#\2 Семестр\Attestation2.3\MyGraph\bin\Debug\MyGraph.pdb
+D:\1 курс\Программирование\C#\2 Семестр\Attestation2.3\MyGraph\obj\Debug\Graph.csprojResolveAssemblyReference.cache
+D:\1 курс\Программирование\C#\2 Семестр\Attestation2.3\MyGraph\obj\Debug\Graph.csproj.CoreCompileInputs.cache
+D:\1 курс\Программирование\C#\2 Семестр\Attestation2.3\MyGraph\obj\Debug\MyGraph.dll
+D:\1 курс\Программирование\C#\2 Семестр\Attestation2.3\MyGraph\obj\Debug\MyGraph.pdb
